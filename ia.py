@@ -1,9 +1,6 @@
 import sys
 import math
 
-# Auto-generated code below aims at helping you parse
-# the standard input according to the problem statement.
-
 MAX_Y = 20
 MAX_X = 30
 
